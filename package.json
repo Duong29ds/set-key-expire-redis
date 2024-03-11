@@ -1,0 +1,15 @@
+{
+  "name": "set-key-expired-redis-practice",
+  "version": "1.0.0",
+  "description": "This is source demo for solution that handle auto expired shopping cart if it isn't payed among time",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "duongkey",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.3",
+    "redis": "^3.1.2"
+  }
+}
